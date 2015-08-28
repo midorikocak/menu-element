@@ -6,5 +6,6 @@
     "homepage": "http://github.com/mtkocak/menu-element",
     "license": "MIT",
     "type": "cake-element",
-    "keywords": ["cake-elements"]
+    "keywords": ["cake-elements"],
+    "require" : []
 }
