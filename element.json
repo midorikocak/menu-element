@@ -2,7 +2,6 @@
     "name": "midori/menu-element",
     "version":"0.1.0",
     "description": "Example Element for Cake Elements",
-    "main": "src/menu-element.ctp",
     "homepage": "http://github.com/mtkocak/menu-element",
     "license": "MIT",
     "type": "cake-element",
